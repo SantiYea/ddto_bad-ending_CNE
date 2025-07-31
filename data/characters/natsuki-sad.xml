@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="10" icon="glitchnatsuki" camx="-130" y="175" scale="1" camy="40" color="#C05983" holdTime="6" sprite="Doki_NatSad_Assets">
+	<anim loop="true" anim="SadNat Idle" name="idle"/>
+	<anim x="60" y="22" anim="SadNat Left" name="singLEFT"/>
+	<anim x="3" y="-24" anim="SadNat Right" name="singRIGHT"/>
+	<anim x="55" y="-29" anim="SadNat Down" name="singDOWN"/>
+	<anim x="115" y="30" anim="SadNat Up" name="singUP"/>
+	<anim x="242" y="27" anim="SadNat EyeBurst" name="eyes"/>
+</character>

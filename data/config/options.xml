@@ -1,0 +1,5 @@
+<!DOCTYPE codename-mod-options>
+<menu name="- DDTO Options" desc="Play with me">
+	<checkbox id="SANTIYEA_ddto_middlescroll" name="MiddleScroll" desc="self explanatory"/>
+	<number id="SANTIYEA_ddto_healthbar" name="Health Bar Opacity" min="0" max="1" change="0.01"/>
+</menu>

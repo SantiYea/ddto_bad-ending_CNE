@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="40" icon="yuri-closet" camx="-120" y="60" scale="1.1" camy="9" color="#FF001E" holdTime="6" sprite="Yuri_Closet">
+	<anim y="-0.909090909090909" anim="ClosetYuriIdle" name="idle"/>
+	<anim y="-0.909090909090909" anim="ClosetYuriRight" name="singRIGHT"/>
+	<anim y="40" anim="ClosetYuriUp" name="singUP"/>
+	<anim x="-0.909090909090909" y="-19.0909090909091" anim="ClosetYuriDown" name="singDOWN"/>
+	<anim x="6.36363636363636" y="-0.909090909090909" anim="ClosetYuriLeft" name="singLEFT"/>
+	<anim x="4.54545454545454" y="14.5454545454545" anim="ClosetYuriIntro" name="appear"/>
+	<anim x="4.54545454545454" y="1.81818181818182" anim="ClosetYuriOutro" name="leaves"/>
+</character>

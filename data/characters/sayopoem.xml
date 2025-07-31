@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character holdTime="6" x="-40" icon="sayoripoem" sprite="SayoHappyThoughts_Assets" y="50" camy="30" scale="1" color="#FF0000">
+	<anim loop="true" x="1" anim="SayoPoemIdle" name="idle"/>
+	<anim loop="true" x="10" y="8" anim="SayoPoemUp" name="singUP"/>
+	<anim loop="true" x="28" y="8" anim="SayoPoemLeft" name="singLEFT"/>
+	<anim loop="true" x="11" y="3" anim="SayoPoemRight" name="singRIGHT"/>
+	<anim loop="true" x="-3" y="31" anim="SayoPoemDown" name="singDOWN"/>
+</character>

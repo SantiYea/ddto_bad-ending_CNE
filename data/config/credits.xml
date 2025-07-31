@@ -1,0 +1,17 @@
+<menu name="DDTO Bad Ending" desc="All Credits" color="#a80707">
+    <github user="SantiYea" customName="Solex" desc="The mf who made the whole Port" size="100" portrait="true" color="#a80707"/>
+
+    <credit name="SirDusterBuster" desc="Team TBD Lead, Director/Main Artist/Animator" icon="duster" size="130" url="https://twitter.com/SirDusterBuster" color="#a80707" portrait="false"/>
+    <credit name="Jorge > SunSpirit" desc="Team TBD Lead, Director/Programmer" icon="jorge" size="130" url="https://twitter.com/Jorge_SunSpirit" color="#a80707" portrait="false"/>
+    <credit name="HighPoweredKeyz" desc="Team TBD Lead, Chromatic Creator" icon="hpk" size="130" url="https://twitter.com/HighPoweredArt" color="#a80707" portrait="false"/>
+    <credit name="M&M" desc="Programmer" icon="mandm" size="130" url="https://linktr.ee/ActualMandM" color="#a80707" portrait="false"/>
+    <credit name="DuskieWhy" desc="Shader Programmer" icon="duskie" size="130" url="thehttps://twitter.com/DuskieWhy" color="#a80707" portrait="false"/>
+    <credit name="Matt$" desc="Musician - STAGNANT and MARKOV" icon="matt" size="130" url="https://twitter.com/matt_currency" color="#a80707" portrait="false"/>
+    <credit name="Flootena" desc="Charting - MARKOV" icon="floot" size="130" url="https://twitter.com/FlootenaDX" color="#a80707" portrait="false"/>
+    <credit name="Chompo" desc="Charting - STAGNANT and HOME" icon="chompo" size="130" url="https://twitter.com/chompoWRLD" color="#a80707" portrait="false"/>
+    <credit name="crim" desc="Artist" icon="crim" size="130" url="https://twitter.com/ScrimbloCrimbo" color="#a80707" portrait="false"/>
+    <credit name="Raze" desc="Animator" icon="raze" size="130" url="https://www.youtube.com/channel/UCC550GafkWljtqAq0UDbYeQ" color="#a80707" portrait="false"/>
+    <credit name="Grand Hammer 6" desc="Artist > Animator" icon="grand" size="130" url="https://twitter.com/GrandHammer6" color="#a80707" portrait="false"/>
+    <credit name="Ito Saihara" desc="Background Artist" icon="ito" size="130" url="https://twitter.com/ItoSaihara_" color="#a80707" portrait="false"/>
+    <credit name="Carimelle" desc="Monika VA" icon="carimelle" size="130" url="https://twitter.com/carimellevo" color="#a80707" portrait="false"/>
+</menu>

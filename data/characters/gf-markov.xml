@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<character x="-70" icon="gf" sprite="DDLCGF_Markov" scale="1" color="#A5004D">
+	<anim y="-9" anim="GF Markov Idle" name="danceLeft"/>
+	<anim y="-9" anim="GF Markov Idle" name="danceRight"/>
+	<anim x="-87" y="2" anim="GF Markov End" name="end"/>
+	<anim loop="true" x="-86" y="-38" anim="GF Home" name="home"/>
+</character>

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character holdTime="6" icon="glitchnatsuki2" sprite="Doki_Home_Nat_Assets" camx="-90" y="175" scale="1" color="#FF005B">
+	<anim x="142" y="24" anim="Nat Sing Note Left" name="singLEFT"/>
+	<anim x="37" y="-22" anim="Nat Sing Note Right" name="singRIGHT"/>
+	<anim x="-24" y="-34" anim="Nat Sing Note DOWN" name="singDOWN"/>
+	<anim x="60" y="61" anim="Nat Sing Note Up" name="singUP"/>
+	<anim loop="true" anim="Nat Idle" name="idle"/>
+</character>

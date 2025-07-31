@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-60" y="260" sprite="BFHappyThoughts_Assets" flipX="true" isPlayer="true" icon="bfpoem" color="#FF0000" holdTime="6">
+	<anim name="idle" anim="BFPoemIdle" x="1" y="0" fps="24" loop="true"/>
+	<anim name="singUP" anim="BFPoemUp" x="10" y="-2" fps="24" loop="true"/>
+	<anim name="singLEFT" anim="BFPoemLeft" x="3" y="3" fps="24" loop="true"/>
+	<anim name="singRIGHT" anim="BFPoemRight" x="16" y="-2" fps="24" loop="true"/>
+	<anim name="singDOWN" anim="BFPoemDown" x="2" y="6" fps="24" loop="true"/>
+</character>

@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="StagnantGameOver" icon="face" color="#000000" flipX="true" isPlayer="true" camx="50" camy="90">
+	<anim name="firstDeath" anim="Stagnant Death Intro" x="243" y="259" fps="24" loop="false"/>
+	<anim name="deathLoop" anim="Stagnant Death Idle" x="38" y="5" fps="24" loop="true"/>
+	<anim name="deathConfirm" anim="Stagnant Death Confirm" x="38" y="5" fps="24" loop="false"/>
+</character>

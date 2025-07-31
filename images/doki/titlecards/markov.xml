@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="markov.png" width="6958" height="589" spritePadding="0" borderPadding="0">
+	<SubTexture name="card0000" x="4967" y="295" width="991" height="293" frameX="-142" frameY="-237" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0001" x="5958" y="295" width="991" height="293" frameX="-142" frameY="-237" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0002" x="0" y="295" width="994" height="294" frameX="-142" frameY="-236" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0003" x="994" y="295" width="994" height="294" frameX="-142" frameY="-236" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0004" x="1992" y="0" width="995" height="295" frameX="-143" frameY="-237" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0005" x="2987" y="0" width="995" height="295" frameX="-143" frameY="-237" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0006" x="3982" y="0" width="992" height="295" frameX="-143" frameY="-237" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0007" x="4974" y="0" width="992" height="295" frameX="-143" frameY="-237" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0008" x="5966" y="0" width="992" height="295" frameX="-143" frameY="-237" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0009" x="0" y="0" width="996" height="295" frameX="-141" frameY="-238" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0010" x="996" y="0" width="996" height="295" frameX="-141" frameY="-238" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0011" x="1988" y="295" width="993" height="294" frameX="-142" frameY="-236" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0012" x="2981" y="295" width="993" height="294" frameX="-142" frameY="-236" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0013" x="3974" y="295" width="993" height="294" frameX="-142" frameY="-236" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character y="350" sprite="SadBFDies_Assets" icon="face" color="#000000" flipX="true" isPlayer="true">
+	<anim name="deathConfirm" anim="BF die confirm" x="37" y="5" fps="24" loop="false"/>
+	<anim name="deathLoop" anim="BF die loop" x="21" y="5" fps="24" loop="true"/>
+	<anim name="firstDeath" anim="BF die intro" x="30" y="38" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="blooddrip.png" width="94" height="6253" spritePadding="0" borderPadding="0">
+	<SubTexture name="gone0000" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+	<SubTexture name="blood0000" x="1" y="0" width="14" height="16" frameX="-244" frameY="-54" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0001" x="15" y="0" width="52" height="54" frameX="-224" frameY="-42" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0002" x="0" y="54" width="72" height="83" frameX="-209" frameY="-32" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0003" x="0" y="137" width="80" height="89" frameX="-206" frameY="-28" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0004" x="0" y="226" width="89" height="93" frameX="-199" frameY="-26" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0005" x="0" y="319" width="91" height="95" frameX="-198" frameY="-24" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0006" x="0" y="414" width="93" height="97" frameX="-197" frameY="-23" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0007" x="0" y="511" width="93" height="133" frameX="-197" frameY="-23" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0008" x="0" y="644" width="93" height="201" frameX="-197" frameY="-23" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0009" x="0" y="845" width="94" height="249" frameX="-196" frameY="-23" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0010" x="0" y="1094" width="93" height="284" frameX="-197" frameY="-23" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0011" x="0" y="1378" width="94" height="310" frameX="-196" frameY="-23" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0012" x="0" y="1688" width="94" height="332" frameX="-196" frameY="-23" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0013" x="0" y="2020" width="93" height="344" frameX="-197" frameY="-23" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0014" x="0" y="2364" width="93" height="358" frameX="-197" frameY="-23" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0015" x="0" y="2722" width="93" height="370" frameX="-197" frameY="-23" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0016" x="0" y="3092" width="93" height="378" frameX="-197" frameY="-23" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0017" x="0" y="3470" width="93" height="388" frameX="-197" frameY="-23" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0018" x="0" y="3858" width="93" height="394" frameX="-197" frameY="-23" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0019" x="0" y="4252" width="93" height="397" frameX="-197" frameY="-23" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0020" x="0" y="4649" width="93" height="399" frameX="-197" frameY="-23" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0021" x="0" y="5048" width="93" height="401" frameX="-197" frameY="-23" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0022" x="0" y="5449" width="93" height="402" frameX="-197" frameY="-23" frameWidth="500" frameHeight="500"/>
+	<SubTexture name="blood0023" x="0" y="5851" width="93" height="402" frameX="-197" frameY="-23" frameWidth="500" frameHeight="500"/>
+</TextureAtlas>

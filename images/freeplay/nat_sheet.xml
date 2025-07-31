@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="nat_sheet.png" width="805" height="555" spritePadding="0" borderPadding="0">
+	<SubTexture name="normal0000" x="403" y="0" width="402" height="554" frameX="-626" frameY="-166" frameWidth="1083" frameHeight="720"/>
+	<SubTexture name="unfair0000" x="0" y="0" width="403" height="555" frameX="-625" frameY="-165" frameWidth="1083" frameHeight="720"/>
+</TextureAtlas>

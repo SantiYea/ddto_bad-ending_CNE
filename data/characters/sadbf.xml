@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character icon="bfsad" sprite="SadBF_Assets" camx="20" y="370" camy="-60" scale="1" color="#527391" flipX="true" isPlayer="true">
+	<anim x="-4" y="3" anim="BF NOTE LEFT MISS" name="singLEFTmiss"/>
+	<anim x="-5" y="-24" anim="BF NOTE DOWN MISS" name="singDOWNmiss"/>
+	<anim x="-5" y="44" anim="BF NOTE UP MISS" name="singUPmiss"/>
+	<anim x="-5" y="-1" anim="BF NOTE RIGHT MISS" name="singRIGHTmiss"/>
+	<anim x="-5" y="3" anim="BF NOTE LEFT0" indices="2,3,4,5,6,7,8,9,10,11,12,13,14" name="singLEFT"/>
+	<anim x="-5" y="-24" anim="BF NOTE DOWN0" indices="2,3,4,5,6,7,8,9,10,11,12,13,14" name="singDOWN"/>
+	<anim x="-5" y="43" anim="BF NOTE UP0" indices="2,3,4,5,6,7,8,9,10,11,12,13,14" name="singUP"/>
+	<anim x="-5" y="-1" anim="BF NOTE RIGHT0" indices="2,3,4,5,6,7,8,9,10,11,12,13,14" name="singRIGHT"/>
+	<anim x="-5" anim="BF idle dance" name="idle"/>
+</character>

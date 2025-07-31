@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character icon="bfsad" sprite="HAPPYBoyFriend_Assets" y="330" scale="1" color="#147495" flipX="true" isPlayer="true">
+	<anim x="-5" anim="BF idle dance" name="idle"/>
+	<anim x="54" y="-6" anim="BF NOTE LEFT0" name="singLEFT"/>
+	<anim x="14" y="-26" anim="BF NOTE DOWN0" name="singDOWN"/>
+	<anim x="-12" y="40" anim="BF NOTE UP0" name="singUP"/>
+	<anim x="-49" y="13" anim="BF NOTE RIGHT0" name="singRIGHT"/>
+	<anim x="49" y="41" anim="BF NOTE LEFT MISS" name="singLEFTmiss"/>
+	<anim x="18" y="-33" anim="BF NOTE DOWN MISS" name="singDOWNmiss"/>
+	<anim x="-17" y="52" anim="BF NOTE UP MISS" name="singUPmiss"/>
+	<anim x="-50" y="12" anim="BF NOTE RIGHT MISS" name="singRIGHTmiss"/>
+</character>

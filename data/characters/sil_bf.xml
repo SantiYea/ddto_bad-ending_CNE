@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character icon="bf" sprite="silhouette_bf" y="350" scale="1" color="#31B0D1" flipX="true" isPlayer="true">
+	<anim x="-5" anim="BF idle dance" name="idle"/>
+	<anim x="-13" y="-6" anim="BF NOTE LEFT0" name="singLEFT"/>
+	<anim x="-35" y="-50" anim="BF NOTE DOWN0" name="singDOWN"/>
+	<anim x="-54" y="27" anim="BF NOTE UP0" name="singUP"/>
+	<anim x="-50" y="-5" anim="BF NOTE RIGHT0" name="singRIGHT"/>
+	<anim x="20" y="55" anim="BF NOTE LEFT MISS" name="singLEFTmiss"/>
+	<anim x="25" y="35" anim="BF NOTE DOWN MISS" name="singDOWNmiss"/>
+	<anim x="-20" y="55" anim="BF NOTE UP MISS" name="singUPmiss"/>
+	<anim x="-20" y="55" anim="BF NOTE RIGHT MISS" name="singRIGHTmiss"/>
+	<anim loop="true" x="-1" anim="BF idle shaking" name="scared"/>
+</character>

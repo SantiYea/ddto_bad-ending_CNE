@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="-200" icon="yuri-crazy" camx="-190" y="-80" scale="1" camy="119" color="#9E72D2" holdTime="9" sprite="Yuri_Doesnt_Understand_Personal_Space">
+	<anim loop="true" fps="26" anim="YuriIdle" name="idle"/>
+	<anim x="4" fps="26" anim="YuriUp" name="singUP"/>
+	<anim x="56" fps="26" anim="YuriDown" name="singDOWN"/>
+	<anim x="93" fps="26" anim="YuriLeft" name="singLEFT"/>
+	<anim x="-23" y="-1" fps="26" anim="YuriRight" name="singRIGHT"/>
+	<anim x="410" y="190" fps="26" anim="YuriFirstPersonJumpscare" name="singDOWN-alt"/>
+</character>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="stagnant.png" width="2251" height="1947" spritePadding="0" borderPadding="0">
+	<SubTexture name="card0000" x="1126" y="837" width="1124" height="277" frameX="-75" frameY="-234" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0001" x="1126" y="1115" width="1124" height="277" frameX="-75" frameY="-234" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0002" x="0" y="1393" width="1125" height="277" frameX="-74" frameY="-234" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0003" x="1125" y="1393" width="1125" height="277" frameX="-74" frameY="-234" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0004" x="0" y="1670" width="1124" height="277" frameX="-74" frameY="-233" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0005" x="1124" y="1670" width="1124" height="277" frameX="-74" frameY="-233" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0006" x="0" y="0" width="1123" height="279" frameX="-75" frameY="-232" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0007" x="0" y="279" width="1123" height="279" frameX="-75" frameY="-232" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0008" x="0" y="558" width="1123" height="279" frameX="-75" frameY="-232" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0009" x="1123" y="0" width="1128" height="278" frameX="-74" frameY="-234" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0010" x="1123" y="278" width="1128" height="278" frameX="-74" frameY="-234" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0011" x="1123" y="556" width="1126" height="278" frameX="-75" frameY="-235" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0012" x="0" y="837" width="1126" height="278" frameX="-75" frameY="-235" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="card0013" x="0" y="1115" width="1126" height="278" frameX="-75" frameY="-235" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

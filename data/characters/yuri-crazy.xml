@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="10" y="100" sprite="Doki_Crazy_Yuri_Assets" icon="yuri-crazy" color="#9E72D2" holdTime="6">
+	<anim name="idle" anim="Yuri Crazy Idle" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Yuri Crazy Left" x="157" y="12" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Yuri Crazy Right" x="-46" y="-4" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Yuri Crazy Down" x="-3" y="-39" fps="24" loop="false"/>
+	<anim name="singUP" anim="Yuri Crazy Up" x="52" y="61" fps="24" loop="false"/>
+</character>

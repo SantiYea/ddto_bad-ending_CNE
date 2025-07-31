@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 DEV https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bgBlood.png" width="7920" height="7120" spritePadding="0" borderPadding="0">
+	<SubTexture name="bgBlood0000" x="0" y="0" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0001" x="720" y="0" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0002" x="1440" y="0" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0003" x="2160" y="0" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0004" x="2880" y="0" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0005" x="3600" y="0" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0006" x="4320" y="0" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0007" x="5040" y="0" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0008" x="5760" y="0" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0009" x="6480" y="0" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0010" x="7200" y="0" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0011" x="0" y="1280" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0012" x="720" y="1280" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0013" x="1440" y="1280" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0014" x="2160" y="1280" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0015" x="2880" y="1280" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0016" x="3600" y="1280" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0017" x="4320" y="1280" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0018" x="5040" y="1280" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0019" x="5760" y="1280" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0020" x="6480" y="1280" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0021" x="7200" y="1280" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0022" x="0" y="2560" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0023" x="720" y="2560" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0024" x="1440" y="2560" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0025" x="2160" y="2560" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0026" x="2880" y="2560" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0027" x="3600" y="2560" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0028" x="4320" y="2560" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0029" x="5040" y="2560" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0030" x="5760" y="2560" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0031" x="6480" y="2560" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0032" x="7200" y="2560" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0033" x="0" y="3840" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0034" x="720" y="3840" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0035" x="1440" y="3840" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0036" x="2160" y="3840" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0037" x="2880" y="3840" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0038" x="3600" y="3840" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0039" x="4320" y="3840" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0040" x="5040" y="3840" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0041" x="5760" y="3840" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0042" x="6480" y="3840" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0043" x="7200" y="3840" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0044" x="0" y="5120" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0045" x="720" y="5120" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0046" x="1440" y="5120" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0047" x="2160" y="5120" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0048" x="2880" y="5120" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0049" x="3600" y="5120" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0050" x="4320" y="5120" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0051" x="5040" y="5120" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0052" x="5760" y="5120" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0053" x="6480" y="5120" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0054" x="7200" y="5120" width="720" height="1280" rotated="true" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0055" x="0" y="6400" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0056" x="1280" y="6400" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0057" x="2560" y="6400" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0058" x="3840" y="6400" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0059" x="5120" y="6400" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="bgBlood0060" x="6400" y="6400" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

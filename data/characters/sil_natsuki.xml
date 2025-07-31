@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character holdTime="6" icon="natsuki" sprite="silhouette_nat" y="175" scale="1" color="#FC95D3">
+	<anim anim="Nat Idle" name="idle"/>
+	<anim x="-32" y="-21" anim="Nat Sing Note Left" name="singLEFT"/>
+	<anim x="-45" y="14" anim="Nat Sing Note Right" name="singRIGHT"/>
+	<anim x="38" y="-20" anim="Nat Sing Note DOWN" name="singDOWN"/>
+	<anim x="33" y="4" anim="Nat Sing Note Up" name="singUP"/>
+</character>

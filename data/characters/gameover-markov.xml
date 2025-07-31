@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="MarkovGameOver" icon="face" color="#000000" flipX="true" isPlayer="true" camx="100" camy="100">
+	<anim name="firstDeath" anim="YuriWatches Intro" x="0" y="0" fps="24" loop="false"/>
+	<anim name="deathLoop" anim="YuriWatches Loop" x="0" y="0" fps="24" loop="true"/>
+	<anim name="deathConfirm" anim="YuriWatches Confirm" x="0" y="0" fps="24" loop="false"/>
+</character>
