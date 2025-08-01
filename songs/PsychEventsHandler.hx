@@ -143,11 +143,8 @@ public function PsychEvent(name:String, v1:String, v2:String, ?v3:String) {
 
 			for (i in 0...targetsArray.length) {
 				var split:Array<String> = valuesArray[i].split(',');
-				var duration:Float = 0;
-				var intensity:Float = 0;
-
-				if(split[0] != null) duration = Std.parseFloat(StringTools.trim(duration));
-				if(split[1] != null) intensity = Std.parseFloat(StringTools.trim(intensity));
+				var duration:Float = split[0] != null ? Std.parseFloat(StringTools.trim(split[0])) : 0;
+				var intensity:Float = split[1] != null ? Std.parseFloat(StringTools.trim(split[1])) : 0;
 				if(Math.isNaN(duration)) duration = 0;
 				if(Math.isNaN(intensity)) intensity = 0;
 
