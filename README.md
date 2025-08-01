@@ -1,0 +1,2 @@
+- ES: haz click en la opcion de "Code" (o codigo, no se si github se autosettea en español) y a la ultima Opcion con que termine en Zip
+- EN: do click in the last option named "Code" and the last Option (Download Zip)
