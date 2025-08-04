@@ -13,10 +13,9 @@ static var redirectStates:Map<FlxState, String> = [
 
 function new()
 {
-    FlxG.save.data.SANTIYEA_finished_storyMode ?? false;
-    FlxG.save.data.SANTIYEA_ddto_middlescroll ?? false;
-    FlxG.save.data.SANTIYEA_ddto_healthbar ?? 1;
-    FlxG.save.data.SANTIYEA_ddto_healthbar = 1;
+    FlxG.save.data.SANTIYEA_finished_storyMode ??= false;
+    FlxG.save.data.SANTIYEA_ddto_middlescroll ??= false;
+    FlxG.save.data.SANTIYEA_ddto_healthbar ??= 1;
 }
 
 function preStateSwitch() {
